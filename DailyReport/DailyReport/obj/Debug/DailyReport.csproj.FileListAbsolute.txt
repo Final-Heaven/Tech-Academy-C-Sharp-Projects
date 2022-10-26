@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
