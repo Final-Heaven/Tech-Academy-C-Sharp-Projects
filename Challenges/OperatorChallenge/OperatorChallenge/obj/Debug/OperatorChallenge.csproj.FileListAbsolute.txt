@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.exe.config
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.pdb
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.pdb
