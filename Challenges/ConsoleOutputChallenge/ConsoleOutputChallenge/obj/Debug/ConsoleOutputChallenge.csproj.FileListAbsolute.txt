@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\ConsoleOutputChallenge\ConsoleOutputChallenge\bin\Debug\ConsoleOutputChallenge.exe.config
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\ConsoleOutputChallenge\ConsoleOutputChallenge\bin\Debug\ConsoleOutputChallenge.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\ConsoleOutputChallenge\ConsoleOutputChallenge\bin\Debug\ConsoleOutputChallenge.pdb
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.pdb
