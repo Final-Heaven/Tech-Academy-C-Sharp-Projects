@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\ConditionalStatementsChallenge\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.exe.config
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\ConditionalStatementsChallenge\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\ConditionalStatementsChallenge\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.pdb
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Challenges\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.pdb
