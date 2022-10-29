@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe.config
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.pdb
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.pdb
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.csproj.AssemblyReference.cache
