@@ -17,6 +17,7 @@ namespace CallingMethodsAssignment
             return userInput;
         }
 
+        // Same process as above
         public static int Subtract(int userInput)
         {
             userInput = userInput - 1;
