@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\MethodsAndObjectsAssignment.exe.config
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\MethodsAndObjectsAssignment.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\MethodsAndObjectsAssignment.pdb
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.pdb
