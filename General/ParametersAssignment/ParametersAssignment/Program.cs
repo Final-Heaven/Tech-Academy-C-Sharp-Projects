@@ -10,29 +10,27 @@ namespace ParametersAssignment
     {
         static void Main(string[] args)
         {
-            //List<string> fruits = new List<string>() { "Apple", "Banana", "Orange" };
+            // Creating list of strings and integers to assign as property values
+            List<string> fruits = new List<string>() { "Apple", "Banana", "Orange" };
+            List<int> numbers = new List<int>() { 1, 2, 3 };
 
-            //Employee<string> employee = new Employee<string>() { Things = fruits };
+            // Instantiating employee objects with lists as property values of Things
+            Employee<string> employee = new Employee<string>() { Things = fruits };
+            Employee<int> employee1 = new Employee<int>() { Things = numbers };
 
-            //List<int> numbers = new List<int>() { 1, 2, 3 };
+            // Loop to print all fruits
+            for (var i = 0; i < employee.Things.Count; i++)
+            {
+                Console.WriteLine(fruits[i]);
+            }
 
-            //Employee<int> employee1 = new Employee<int>() { Things = numbers };
+            // Loop to print all numbers
+            for (var i = 0; i < employee1.Things.Count; i++)
+            {
+                Console.WriteLine(numbers[i]);
+            }
 
-            //for (var i = 0; i < employee.Things.Count; i++)
-            //{
-            //    Console.WriteLine(fruits[i]);
-            //}
-
-            //for (var i = 0; i < employee1.Things.Count; i++)
-            //{
-            //    Console.WriteLine(numbers[i]);
-            //}
-
-            //Console.ReadLine();
-
-            Employee<string> employee = new Employee<string>();
-
-            employee.Things.Add("Apple");
+            Console.ReadLine();
         }
     }
 }
