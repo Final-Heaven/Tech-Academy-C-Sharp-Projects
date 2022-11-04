@@ -47,7 +47,7 @@ namespace LambdaAssignment
 
             // Creating another list of employees
             // This time, using a lambda expression to only add employees with the first name of Joe
-            List<Employee> lambdaList = employeeList.Where(x => x.firstName == "Joe").ToList();
+            List<Employee> lambdaList = employeeList.Where(x => x.firstName == "Joe").ToList(); 
 
             Console.WriteLine("\nResults of creating a new list with a lambda expression: ");
 
