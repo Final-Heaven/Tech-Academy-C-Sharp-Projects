@@ -32,7 +32,6 @@ namespace TwentyOne
             int value = Hand.Sum(x => _cardValues[x.Face]);
             result[0] = value;
             if (result.Length == 1) return result;
-            // Set a breakpoint and look at this later
             for (int i = 1; i < result.Length; i++)
             {
                 value += (i * 10);
@@ -67,6 +66,19 @@ namespace TwentyOne
                 }
             }
             return false;
+        }
+
+        public static bool? CompareHands(List<Card> PlayerHand, List<Card> DealerHand)
+        {
+            int[] playerResults = GetAllPossibleHandValues(PlayerHand);
+            int[] dealerResults = GetAllPossibleHandValues(DealerHand);
+
+            int playerScore = playerResults.Where(x => x < 22).Max();
+            int dealerScore = dealerResults.Where(x => x < 22).Max();
+
+            if (playerScore > dealerScore) return true;
+            else if (playerScore < dealerScore) return false;
+            else return null;
         }
     }
 }
