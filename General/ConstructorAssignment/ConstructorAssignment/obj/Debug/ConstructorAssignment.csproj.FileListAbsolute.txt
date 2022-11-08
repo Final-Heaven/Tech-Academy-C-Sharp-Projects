@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe.config
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.pdb
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.exe
+C:\Users\admin\Documents\GitHub\Tech-Academy-C-Sharp-Projects\General\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.pdb
