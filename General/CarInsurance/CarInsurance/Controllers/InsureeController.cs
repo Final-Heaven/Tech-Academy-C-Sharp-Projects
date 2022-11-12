@@ -20,6 +20,11 @@ namespace CarInsurance.Controllers
             return View(db.Insurees.ToList());
         }
 
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
+        }
+
         // GET: Insuree/Details/5
         public ActionResult Details(int? id)
         {
@@ -72,10 +77,10 @@ namespace CarInsurance.Controllers
                 quote += 25;
             }
 
-            if (insuree.CarMake.Contains("Porsche"))
+            if (insuree.CarMake.Contains("Porsche".ToLower()) || insuree.CarMake.Contains("Porsche"))
             {
                 quote += 25;
-                if (insuree.CarModel == "911 Carrera")
+                if (insuree.CarModel.Contains("911 Carrera".ToLower()) || insuree.CarModel.Contains("911 Carrera"))
                 {
                     quote += 25;
                 }
